@@ -1,7 +1,7 @@
 # odin-recipes
 
 ## Introduction
-The current project is practice all the HTML knowledge I have gained in the past lessons of "*The Odin Project* Foundations". When the project is completed I am able to construct a whole webpage with HTML. 
+The current project is to practice all the HTML knowledge I have gained in the past lessons of "*The Odin Project* Foundations". When the project is completed I mastered the foundations of HTML.
 
 
 
