@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(0, 0, 92);
+    color: white;
+    font-family: Tahoma;
+    margin: 15px 15px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    text-align: center;
+    margin: 5px 0 35px;
+}
+
+
+ul, ol {
+    margin: 15px;
+    padding: 0 10% 0 45px;
+}
+p {
+    margin: 10px;
+    padding: 10px 5% 0 20px;
+}
+
+h2, h3 {
+    padding: 15px 0 0 30px;
+}
+
+a {
+    color: white;
+}
+
+img { 
+    display: block;
+    width: 320px;
+    margin: 0 auto 30px;
+}
+/* img is an inline element 
+-> that is why we need to turn it into a block element to center */
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
