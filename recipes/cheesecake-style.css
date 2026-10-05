@@ -5,8 +5,8 @@
 }
 
 body {
-    background-color: rgb(109, 3, 3);
-    color: white;
+    background-color: rgb(255, 203, 70);
+    color: black;
     font-family: Tahoma;
     margin: 15px 15px;
     margin-bottom: 100px;
@@ -37,20 +37,18 @@ h2, h3 {
 }
 
 a {
-    color: white;
+    color: black;
 }
 
 img { 
     display: block;
-    width: 400px;
+    width: 450px;
     margin: 0 auto 30px;
 }
 /* img is an inline element 
 -> that is why we need to turn it into a block element to center */
 
 .links {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-    align-items: center;
+    display: grid;
+    
 }
